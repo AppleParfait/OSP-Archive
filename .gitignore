@@ -58,3 +58,4 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/JSB_RL_Simulator/Assets/JSB_RL/results

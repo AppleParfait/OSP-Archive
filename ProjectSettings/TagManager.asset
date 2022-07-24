@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - agent
+  - iWall
+  - wall
+  - pit
+  - frozenAgent
+  - ball
+  - blueGoal
+  - blueAgent
+  - goal
+  - ground
+  - block
+  - switchOff
+  - pyramid
+  - switchOn
+  - stone
+  - target
+  - badFood
+  - food
+  - walkableSurface
+  - symbol_X
+  - symbol_O
+  - symbol_X_Goal
+  - symbol_O_Goal
+  - purpleAgent
+  - purpleGoal
+  - Circle
+  - RealUser0
+  - RealUser1
+  - VirtualUser0
+  - VirtualUser1
+  - VirtualUser2
+  - VirtualUser3
+  - VirtualUser4
+  - VirtualUser5
+  - VirtualUser6
+  - VirtualUser7
+  - VirtualUser8
+  - RealUser2
+  - RealUser3
+  - RealUser4
+  - RealUser5
+  - RealUser6
+  - RealUser7
+  - RealUser8
+  - RealUser9
+  - VirtualUser9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - invisible
+  - 
+  - PhysicalWall
+  - VirtualWall
+  - PhysicalUser
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

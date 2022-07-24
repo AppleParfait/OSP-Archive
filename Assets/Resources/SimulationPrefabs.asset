@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a078922176063f940903676f4c5b802c, type: 3}
+  m_Name: SimulationPrefabs
+  m_EditorClassIdentifier: 
+  targetPrefab: {fileID: 903321712500741410, guid: ff9252a0e46d38f4596d4133611dc97c,
+    type: 3}
+  resetLocPrefab: {fileID: 903321712500741410, guid: 03c7843412c9080409289e3abbc75d7e,
+    type: 3}
+  realWallPrefab: {fileID: 5979314031355853954, guid: 055e0a2968170b14b8ca4f6ba406f903,
+    type: 3}
+  RLPrefab: {fileID: 3377572014488977381, guid: eeec58679fea5f4409bdb77b9578377f,
+    type: 3}
+  arrangementRLPrefab: {fileID: 3377572014488977381, guid: 708a9a00c79601a418e715d324a54e65,
+    type: 3}
+  realMaterial: {fileID: 2100000, guid: 9f533429e2cd57040af3915b199c68a6, type: 2}
+  virtualMaterial: {fileID: 2100000, guid: 84d6d68990aeb8c49bd72e0029846a7e, type: 2}
+  obstacleMaterial: {fileID: 2100000, guid: b6e691bf6f8fff54f95ff8e6b7548d7c, type: 2}
